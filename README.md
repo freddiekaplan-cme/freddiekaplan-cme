@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Freddie</h1>
 <h3 align="center">A frontend development student in Stockholm</h3>
-<p>👀 Looking for an internship between January 23rd and July 7th 2024.</p>
 <p>⭐ I enjoy problem solving, love responsive design and I'm interested in accessibility on the web.</p>
 
 <h3 align="left">Connect with me:</h3>

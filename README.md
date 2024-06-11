@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Freddie</h1>
-<h3 align="center">A frontend development student in Stockholm</h3>
+<h3 align="center">A Web Developer in Stockholm</h3>
 <p>⭐ I enjoy problem solving, love responsive design and I'm interested in accessibility on the web.</p>
+<p>Looking for new working opportunities!</p>
 
 <h3 align="left">Connect with me:</h3>
 <p>📧 <a href="mailto:freddie.kaplan@edu.cmeducations.se">freddie.kaplan@edu.cmeducations.se</a></p>

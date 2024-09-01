@@ -4,7 +4,7 @@
 <p>Looking for new working opportunities!</p>
 
 <h3 align="left">Connect with me:</h3>
-<p>📧 <a href="mailto:freddie.kaplan@edu.cmeducations.se">freddie.kaplan@edu.cmeducations.se</a></p>
+<p>📧 <a href="mailto:hello@freddiekaplan.se">hello@freddie.kaplan.se</a></p>
 <p>🤝 <a href="https://www.linkedin.com/in/freddiekaplan/">LinkedIn profile</a></p>
 
 # 💻 Tech Stack:

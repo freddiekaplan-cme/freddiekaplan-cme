@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Freddie</h1>
 <h3 align="center">A Web Developer in Stockholm</h3>
-<p>⭐ I enjoy problem solving, love responsive design and I'm interested in accessibility on the web.</p>
+<p>⭐ I enjoy problem solving and love responsive design. I'm also interested in accessibility on the web, check out my thesis project about the subject:<br><a href=https://accessibility-project-delta.vercel.app>Accessibility Project</a></p>
 <p>Looking for new working opportunities!</p>
 
 <h3 align="left">Connect with me:</h3>
